@@ -21,8 +21,6 @@ This repository serves as a personal collection and reference for AI-powered com
 2. **Code Explainer**: Get AI-powered explanations for code snippets.
 3. **Task Breakdown**: Use AI to break down complex tasks into manageable steps.
 
-(Add more examples as you populate your repository)
-
 ## Usage
 
 Each command or script in this repository comes with its own usage instructions. Generally, to use these commands with Raycast:

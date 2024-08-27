@@ -1,0 +1,10 @@
+[
+  {
+    "creativity" : "medium",
+    "highlightEdits" : false,
+    "icon" : "pencil",
+    "model" : "anthropic-claude-sonnet",
+    "prompt" : "Write up notes that will be pasted into Bear App directly. \nBelow are raw notes that were taken during a meeting, screening call or interview by the applicant, Oliver.\nFormat the items using Markdown. Do not include any additional line breaks between lines of text.\nKeep the title in the first line the same, with an H1 tag (#).\nKeep the tags in the second line the same.\nImprove how each sentence is worded and structured to make it easy to understand.\nStructure the rest with title and then bullets of other points, no more than 1 bullet indent.\nEach section should use H2 tag for the title (two # before it)\nEach bullet should use "- " before.\nThink it through step by step and ensure it will be useful for Oliver afterwards (e.g. capturing follow up tasks, details that may be important for future interviews, etc.)\nDo not provide any context before the response or conversational response. This will be used in an API.\nNotes to write up:\n{selection}",
+    "title" : "Write up Notes in Markdown"
+  }
+]

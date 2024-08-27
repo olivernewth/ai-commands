@@ -1,0 +1,10 @@
+[
+  {
+    "creativity" : "low",
+    "highlightEdits" : false,
+    "icon" : "play-filled",
+    "model" : "anthropic-claude-haiku",
+    "prompt" : "Create a summary of a YouTube video using its transcript. You will use the following template:\n\n\"\"\"\n## Summary\n{Multiple sentences summarising the YouTube video}\n\n## Notes\n{Bullet points that summarize the key points or important moments from the video’s transcript with explanations}\n\n## Quotes\n{Extract the best sentences from the transcript in a list}\n\"\"\"\n\nTranscript: {browser-tab}",
+    "title" : "Summarize YouTube Video"
+  }
+]

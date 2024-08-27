@@ -1,0 +1,10 @@
+[
+  {
+    "creativity" : "medium",
+    "highlightEdits" : false,
+    "icon" : "brand-openai",
+    "model" : "anthropic-claude-sonnet",
+    "prompt" : "Write a comment to reply to the thread which is provide and delimited by triple quotes. Ideally just a few words, no more than a sentence. Make it friendly but still professional, appropriate for LinkedIn.\n\n- Give the response in plain text.\n- Your response will be used directly in an API. \n- Provide information directly without any introductory sentences.\n- Exclude any extra wording and just provide the essential answer.\n\n\"\"\"{clipboard}\"\"\"",
+    "title" : "Quick Comment"
+  }
+]

@@ -1,0 +1,10 @@
+[
+  {
+    "creativity" : "high",
+    "highlightEdits" : false,
+    "icon" : "repeat",
+    "model" : "anthropic-claude-sonnet",
+    "prompt" : "Write a post to repost about this article in my style of writing. Max 1 paragraph, no hashtags.\n\nPost to repost: \n\n{selection}",
+    "title" : "LinkedIn Repost"
+  }
+]

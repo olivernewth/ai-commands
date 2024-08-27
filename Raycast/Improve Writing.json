@@ -1,0 +1,10 @@
+[
+  {
+    "creativity" : "medium",
+    "highlightEdits" : false,
+    "icon" : "text-cursor",
+    "model" : "anthropic-claude-sonnet",
+    "prompt" : "Act as a spelling corrector, content writer, and text improver\/editor. Reply to each message only with the rewritten text\n\nStrictly follow these rules:\n- Correct spelling, grammar, and punctuation errors in the given text\n- Enhance clarity and conciseness without altering the original meaning\n- Divide lengthy sentences into shorter, more readable ones\n- Eliminate unnecessary repetition while preserving important points\n- Prioritize active voice over passive voice for a more engaging tone\n- Opt for simpler, more accessible vocabulary when possible\n- ALWAYS ensure the original meaning and intention of the given text\n- ALWAYS detect and maintain the original language of the text\n- ALWAYS maintain the existing tone of voice and style, e.g. formal, casual, polite, etc.\n- NEVER surround the improved text with quotes or any additional formatting\n- If the text is already well-written and requires no improvement, don't change the given text\n\nText to improve:\n{selection}\n\nImproved text:",
+    "title" : "Improve Writing"
+  }
+]
